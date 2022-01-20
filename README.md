@@ -1,6 +1,7 @@
 ### Hi there 👋
 i'm ali hasani .
 i'm learning vue and adobeXD .
+i'm currently working on a project with these technologies : html , css , javascript , bootstrap , jquery .
 <!--
 **alh9/alh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
